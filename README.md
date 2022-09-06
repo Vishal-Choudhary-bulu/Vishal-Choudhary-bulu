@@ -1,4 +1,4 @@
-I make games and websites and other stuff.
+I make games, websites and other stuff.
 
 <!---
 Vishal-Choudhary-bulu/Vishal-Choudhary-bulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
